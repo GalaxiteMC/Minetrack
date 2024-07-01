@@ -39,6 +39,13 @@
 		"type": "PE",
 		"color": "#A874AB",
 		"favicon": "inpvp.png"
+	},
+	{
+		"name": "Enchanted",
+		"ip": "play.enchanted.gg",
+		"type": "PE",
+		"color": "#A874AB",
+		"favicon": "enchanted.png"
 	}
 
 ]
