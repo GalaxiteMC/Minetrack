@@ -44,8 +44,15 @@
 		"name": "Enchanted",
 		"ip": "play.enchanted.gg",
 		"type": "PE",
-		"color": "#A874AB",
+		"color": "#78B4AB",
 		"favicon": "enchanted.png"
+	},
+	{
+		"name": "MegaSMP",
+		"ip": "play.megasmp.gg",
+		"type": "PE",
+		"color": "#A874AB",
+		"favicon": "megasmp.webp"
 	}
 
 ]
