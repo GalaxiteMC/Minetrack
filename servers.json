@@ -27,13 +27,6 @@
 		"favicon": "hive.png"
 	},
 	{
-		"name": "NetherGames",
-		"ip": "proxylink.nethergames.org",
-		"type": "PE",
-		"color": "#ac5e39",
-		"favicon": "nethergames.png"
-	},
-	{
 		"name": "InPvP",
 		"ip": "play.inpvp.net",
 		"type": "PE",
